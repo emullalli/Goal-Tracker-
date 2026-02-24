@@ -1,7 +1,7 @@
 /*
 *Author: Elektra Mullalli
 *Creation Date: 02/21/2026
-*Modification Date:
+*Modification Date: 02/24/2026
 *Purpose: The purpose of this program is for tracking your goals when life gets busy and hectic.
 *		  When you are feeling down and want an affrimation to keep going you use this program.
 *         If youre curious of your glow stat this program provides you a percentage.
