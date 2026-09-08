@@ -1,8 +1,8 @@
-# ✨ Glow Up Tracker
+# Goal Tracker 
 
 A C++ console application that helps users track personal goals, measure progress, and stay motivated with daily affirmations.
 
-## 🚀 Features
+## Features
 - Add goals
 - Mark goals as completed
 - Delete goals
@@ -16,5 +16,5 @@ A C++ console application that helps users track personal goals, measure progres
 - Random number generation
 - Input validation
 
-## 👩‍💻 Author
+##  Author
 Elektra Mullalli
